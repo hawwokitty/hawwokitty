@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kitty</h1>
 <h3 align="center">A Junior Fullstack Developer</h3>
 
-- 🔭 I’m currently working on my [Portfolio](https://hawwokitty.github.io/my-portfolio/)
+- 🔭 I’m currently working on a [Game](https://github.com/hawwokitty/Game)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I just learned **React** and am currently using **MonoGame** in **C#**
 
 - 📫 How to reach me **hawwokitty@outlook.com**
 
